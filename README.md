@@ -39,7 +39,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 ANS:unit tests individual components or modules of software
     intergration tests interaction between different components or subsystems 
     acceptance tests the software against user requirementsto ensure it meets user needs
-    their importance are taking measures such as code reviews,automated testing,cotinous intergration help identify and fix defects early in the development process leading to higher quality software products
+    their importance are taking measures such as code reviews,automated testing,cotinous intergration help identify and fix defects early in the development process leading to higher quality software products.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
